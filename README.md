@@ -16,4 +16,4 @@ Outcome may look something like this
 
 On line 95 of the source code that can be found [here](https://github.com/Offorensics/wordlistcreator/blob/master/src/wlgenerator.py "here"), notice the comment about changing _clear_ to _cls_ if you are running a Windows machine.
 
-This is information package doesn't intend to dive in more details. If you are interested to know more about this program, please visit [Offorensic's article](http://offorensics.com "Offorensic's article") about it.
+This is information package doesn't intend to dive in more details. If you are interested to know more about this program, please visit [Offorensic's article](http://offorensics.com/custom-wordlist-generator-with-python/ "Offorensic's article") about it.
