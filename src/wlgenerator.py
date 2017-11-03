@@ -94,7 +94,7 @@ with open(inputfile) as ip_f:
 
 		#this is for linux/osx, if you use windows, replace 'clear' with 'cls'
 		os.system('clear')
-		print("Creating variation " + str(progress) + "/" + str(count))
+		print("Creating variations for word" + str(progress) + "/" + str(count))
 
 elapsed_time = time.time() - start_time
 print("Total of " + str(total) + " password variations created!")
