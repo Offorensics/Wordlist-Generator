@@ -1,6 +1,6 @@
 # Wordlist Generator
 
-Wordlist Generator allows you to create custom wordlists that can be used in different situations, such as wordlist attacks. This is especially designed to be used when you have gained some knowledge of the target. Alternatively, can be used to create more variation from different default passwords. The generator is written for Python 3+ interpreter, doesn't require any non-native modules and is tested in Linux (Ubuntu 16.04, Kali 2017.2) and Windows (10) environments. 
+Wordlist Generator allows you to create custom wordlists that can be used in different situations, such as wordlist attacks. This is especially designed to be used when you have gained some knowledge of the target. Alternatively, the program can be used to create more variations for different default passwords. The generator is written for Python 3+ interpreter, doesn't require any non-native modules and is tested in Linux (Ubuntu 16.04, Kali 2017.2) and Windows (10) environments. 
 
 ## How to use
 
