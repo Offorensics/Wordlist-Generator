@@ -19,7 +19,7 @@ On line 95 of the source code that can be found [here](https://github.com/Offore
 ## Things to notice
 
 - Files can get big
-- Lots of unprobable variations
+- Lots of improbable variations
 
 This information package doesn't intend to dive in more details. If you are interested to know more about this program, please visit [Offorensic's article](http://offorensics.com/custom-wordlist-generator-with-python/ "Offorensic's article") about it.
 
